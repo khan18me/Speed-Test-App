@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "speedtest.test"
+        minSdkVersion 14
+        targetSdkVersion 29
+        versionCode 4
+        versionName "1.0.4"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        google()
+    }
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    implementation files('libs/achartengine-1.2.0.jar')
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:25.0.1'
+}

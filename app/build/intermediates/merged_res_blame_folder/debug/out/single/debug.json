@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_logo.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_speedmeter.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\speedmeter.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "speedtest.app-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "speedtest.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_speedmeter1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\speedmeter1.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_icon.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_appmainlogo.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\appmainlogo.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_buttonstyle.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\buttonstyle.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_main.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\main.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_bar.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\bar.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable_needle.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\drawable\\needle.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-main-8:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-merged_res-6:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jre\\daemon\\7.3.3\\speedtest.app-pngs-1:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "speedtest.app-merged_res-6:/drawable_speedmeter1.png.flat",
+        "source": "speedtest.app-main-8:/drawable/speedmeter1.png"
+    }
+]

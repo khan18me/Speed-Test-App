@@ -1,0 +1,9 @@
+speedtest.app-appcompat-v7-25.0.1-0 C:\Program Files\Android\Android Studio1\jre\caches\transforms-3\da55792a8e17b2636a6debee562a35e1\transformed\appcompat-v7-25.0.1\res
+speedtest.app-pngs-1 D:\speedtest\app\build\generated\res\pngs\debug
+speedtest.app-resValues-2 D:\speedtest\app\build\generated\res\resValues\debug
+speedtest.app-rs-3 D:\speedtest\app\build\generated\res\rs\debug
+speedtest.app-mergeDebugResources-4 D:\speedtest\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+speedtest.app-mergeDebugResources-5 D:\speedtest\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+speedtest.app-merged_res-6 D:\speedtest\app\build\intermediates\merged_res\debug
+speedtest.app-debug-7 D:\speedtest\app\src\debug\res
+speedtest.app-main-8 D:\speedtest\app\src\main\res
